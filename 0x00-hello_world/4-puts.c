@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - no argument
+ * main: main function void
  * print the statment using puts
  *
  * return: zero
