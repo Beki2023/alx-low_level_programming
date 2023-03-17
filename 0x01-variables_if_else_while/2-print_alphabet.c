@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stype.h>
 
 /**
  * main - no argument
