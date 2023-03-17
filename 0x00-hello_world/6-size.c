@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main- no argument
+ * declaretion of variables
+ * print the size of different variable type
+ *
+ * return: zero
+ */
+
 int main(void)
 {
 	char b;
