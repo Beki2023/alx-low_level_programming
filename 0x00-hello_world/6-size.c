@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main- no argument
- * declaretion of variables
- * print the size of different variable type
+ * main- entry point
  *
- * return: zero
+ * description: print the size of various variable
+ *
+ * return: alwayse 0 (seccess)
  */
 
 int main(void)
