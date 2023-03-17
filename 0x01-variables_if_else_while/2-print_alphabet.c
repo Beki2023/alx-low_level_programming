@@ -10,8 +10,11 @@
 int main(void)
 {
 	int i;
-	for (int i = 'a'; i <= 'z'; i++)
-		putchar(tolower(i));
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		i = tolowe(i);
+		putchar(i);
+	}
 
 	return (0);
 }
