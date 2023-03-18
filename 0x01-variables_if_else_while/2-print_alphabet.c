@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <stype.h>
 
 /**
  * main - no argument
- * print the last digit of the given random number
+ * print the the all lowercase alphabet using putchar
  *
  * Return: zero
  */
