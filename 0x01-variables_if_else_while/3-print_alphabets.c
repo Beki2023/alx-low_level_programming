@@ -4,9 +4,9 @@
  * main - starting point
  * print lowercas then uppercase in new line
  *
- * return: zero
+ * return: zero (seccess)
  */
-int main()
+int main(void)
 {
 	int i, j;
 
@@ -14,6 +14,5 @@ int main()
 		putchar(i);
 	for (j = 'A'; j <= 'Z'; j++)
 		putchar(j);
-	
 	return (0);
 }
