@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - starting point
- * write lowercase alphabet exept e and q
+ * main - no argument
+ * print the the all lowercase exept e and q
  *
- * return: zero(seccess)
+ * Return: zero
  */
 
 int main(void)
 {
 	int i;
 
-	for (i ='a'; i <= 'z'; i++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
 	if (i != 'e' && i != 'q')
 		putchar(i);
