@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - starting point
- * print lowercas then uppercase in new line
+ * main - no argument
+ * print the the all lowercase alphabet using putchar
  *
- * return: zero (seccess)
+ * Return: zero
  */
 
 int main(void)
