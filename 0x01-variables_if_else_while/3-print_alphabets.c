@@ -6,6 +6,7 @@
  *
  * return: zero (seccess)
  */
+
 int main(void)
 {
 	int i, j;
