@@ -12,7 +12,14 @@ int main(void)
 	int i;
 
 	for (i ='a'; i <= 'z'; i++)
-		while (!(i = 'e' || 'q'))
+	{
+	if (i != 'e' && i != 'q')
+	{
 		putchar(i);
+	}
+	else
+	{
+	putchar(0);
+	}}
 	return (0);
 }
