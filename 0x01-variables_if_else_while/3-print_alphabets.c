@@ -6,14 +6,14 @@
  *
  * return: zero
  */
-int main(void)
+int main()
 {
 	int i, j;
 
 	for (i = 'a'; i <= 'z'; i++)
-		putchar(i)\n;
+		putchar(i);
 	for (j = 'A'; j <= 'Z'; j++)
-		putchar(j)
+		putchar(j);
 	
 	return (0);
 }
