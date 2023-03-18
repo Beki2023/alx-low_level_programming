@@ -2,7 +2,7 @@
 
 /**
  * main - no argument
- * print all numbers with base ten 
+ * print all numbers with base ten
  *
  * Return: zero
  */
