@@ -7,7 +7,7 @@
  * return: zero
  */
 
-int mian(void)
+int main(void)
 {
 	int i;
 	
