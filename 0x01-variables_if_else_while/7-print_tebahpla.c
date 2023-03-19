@@ -1,16 +1,15 @@
 #include <stdio.h>
-
 /**
- * main- starting point
- * print the lower case alphabet in reverse order
+ * main - no argument
+ * print all numbers with base ten
  *
- * return: zero
+ * Return: zero
  */
 
 int main(void)
 {
 	int i;
-	
+
 	for (i = 'z'; i >= 'a'; i--)
 		putchar(i);
 	return (0);
