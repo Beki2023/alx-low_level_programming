@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - starting point
+ *
  * base 16 in lowercase
  *
- * return: zero
+ * Return: Always 0 (success)
  */
 
 int main(void)
