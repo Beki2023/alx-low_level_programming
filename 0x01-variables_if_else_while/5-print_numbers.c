@@ -15,6 +15,6 @@ int main(void)
 		if (i <= '9')
 		putchar(i);
 		else
-			putchar(\n);
+			putchar();
 	return (0);
 }
