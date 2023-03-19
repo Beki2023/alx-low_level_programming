@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-/*
- * main: main function void
- * print the statment using puts
+/**
+ * main - no argument
+ * print the statment using puts function
  *
- * return: zero
+ * Return: zero
  */
 
 int main(void)
