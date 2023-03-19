@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main- return value of one
+ * main - no argument
  * print some quote
  *
- * return: one
+ * Return: zero
  */
 
 int main(void)
